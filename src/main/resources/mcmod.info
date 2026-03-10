@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "belygadecor",
+    "name": "Belyga Decorative Blocks",
+    "description": "26 decorative OBJ blocks for Minecraft 1.12.2.",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "authorList": ["Belyga"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
